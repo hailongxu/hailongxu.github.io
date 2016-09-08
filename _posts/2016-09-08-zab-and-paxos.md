@@ -6,7 +6,7 @@ comments: true
 ---
 
 
-# Zab vs. Paxos
+# ZAB vs. Paxos
 > Created by Marco Serafini, last modified by Patrick Hunt on Jul 21, 2016 Go to start of metadata
 
 ## Is Zab just a special implementation of Paxos?
