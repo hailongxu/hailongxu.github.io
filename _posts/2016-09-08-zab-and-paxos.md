@@ -7,7 +7,8 @@ comments: true
 
 
 # ZAB vs. Paxos
-> Created by Marco Serafini, last modified by Patrick Hunt on Jul 21, 2016 Go to start of metadata
+> Created by Marco Serafini, last modified by Patrick Hunt on Jul 21, 2016 Go to start of metadata  
+> from: https://cwiki.apache.org/confluence/display/ZOOKEEPER/Zab+vs.+Paxos
 
 ## Is Zab just a special implementation of Paxos?
 No, Zab is a different protocol than Paxos, although it shares with it some key aspects, as for example:
