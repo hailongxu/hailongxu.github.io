@@ -21,4 +21,7 @@ She has some futures totally different from ever system language
 offical definition: Rust is a system programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
 
 
-# 如何使用 Markdown
+# difference between borrow and AsRef
+
+# research of rust
+[academism](http://www.kancloud.cn/thinkphp/rust/36107)
